@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/konten">
+        <file>gambar/tombol/conect.jpg</file>
+        <file>gambar/tombol/disconect.jpg</file>
+        <file>gambar/tombol/refresh.png</file>
+        <file>gambar/bg/akuisisi_bg.jpg</file>
+        <file>gambar/bg/bg.jpg</file>
+        <file>gambar/bg/green_bg.jpg</file>
+        <file>gambar/bg/i_bg.jpg</file>
+        <file>gambar/bg/red_bg.jpg</file>
+        <file>gambar/bg/serial_bg.jpg</file>
+        <file>gambar/bg/white_bg.jpg</file>
+        <file>gambar/kompas/arrow.svg</file>
+        <file>gambar/kompas/compass.svg</file>
+        <file>gambar/tombol/conect.png</file>
+        <file>gambar/tombol/disconect.png</file>
+        <file>gambar/antena.png</file>
+        <file>gambar/its-putih.png</file>
+        <file>gambar/its-warna.png</file>
+        <file>gambar/pens-putih.png</file>
+    </qresource>
+    <qresource prefix="/qml">
+        <file>kompas.qml</file>
+        <file>track.qml</file>
+    </qresource>
+</RCC>
